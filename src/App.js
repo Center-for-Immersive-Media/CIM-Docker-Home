@@ -57,15 +57,7 @@ function App() {
                 href="https://www.oculus.com/experiences/quest/1946326588770583"
                 target={"_blank"}
               >
-                Notes on Blindness (Quest 2)
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.oculus.com/deeplink/?action=view&path=app/1671004309616863&ref=oculus_desktop"
-                target={"_blank"}
-              >
-                Notes on Blindness (Rift)
+                Notes on Blindness
               </a>
             </li>
             <li>
@@ -73,15 +65,7 @@ function App() {
                 href="https://www.oculus.com/experiences/quest/3006696236087408"
                 target={"_blank"}
               >
-                Space Explorers (Quest 2)
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.oculus.com/experiences/rift/4109168145824350"
-                target={"_blank"}
-              >
-                Space Explorers (Rift)
+                Space Explorers
               </a>
             </li>
             <li>
@@ -90,6 +74,14 @@ function App() {
                 target={"_blank"}
               >
                 Ashe '68
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.oculus.com/experiences/quest/1931356740318898/"
+                target={"_blank"}
+              >
+                Quill Animation
               </a>
             </li>
           </ul>
