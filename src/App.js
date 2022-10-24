@@ -62,7 +62,7 @@ function App() {
             </li>
             <li>
               <a
-                href="https://www.oculus.com/experiences/rift/1671004309616863"
+                href="https://www.oculus.com/deeplink/?action=view&path=app/1671004309616863&ref=oculus_desktop"
                 target={"_blank"}
               >
                 Notes on Blindness (Rift)
